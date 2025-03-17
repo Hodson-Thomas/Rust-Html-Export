@@ -7,7 +7,7 @@ description = "Basic struct & enums to html file conversion crate"
 repository = "https://github.com/Hodson-Thomas/Rust-Html-Export"
 homepage = "https://github.com/Hodson-Thomas/Rust-Html-Export/wiki"
 keywords = ["html", "conversion", "generation", "rust"]
-categories = [""]
+categories = ["template-engine"]
 license = "MIT"
 
 [dependencies]
