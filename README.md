@@ -12,3 +12,6 @@ This crate is not designed to:
 
 1. Be implemented in frameworks
 2. Be implemented in web applications
+
+
+Please check out the [Wiki](https://github.com/Hodson-Thomas/Rust-Html-Export/wiki).
