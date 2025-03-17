@@ -8,6 +8,6 @@ repository = "https://github.com/Hodson-Thomas/Rust-Html-Export"
 homepage = "https://github.com/Hodson-Thomas/Rust-Html-Export/wiki"
 keywords = ["html", "conversion", "generation", "rust"]
 categories = [""]
-licence = "MIT"
+license = "MIT"
 
 [dependencies]
