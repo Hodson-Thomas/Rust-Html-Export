@@ -2,5 +2,11 @@
 name = "html_export"
 version = "0.1.0"
 edition = "2021"
+authors = ["Thomas Hodson thomas.hodson.pro@gmail.com"]
+description = "Basic struct & enums to html file conversion crate"
+repository = "https://github.com/Hodson-Thomas/Rust-Html-Export"
+homepage = "https://thomashodson.fr/"
+keywords = ["html", "conversion", "generation", "rust"]
+categories = [""]
 
 [dependencies]
